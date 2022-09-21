@@ -67,7 +67,7 @@ The first six rows of our data set are shown below...
 3. Average Difference between Salaries
 4. R-Squared Value and Significance Tests
 
-### Scatterplot with Trend Line[![](./images/salary_and_stem.png)]
+### Scatterplot with Trend Line![](./images/salary_and_stem.png)(#figure)
 
 ---
 
