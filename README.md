@@ -6,8 +6,8 @@
 2. [HYPOTHESIS](#hypothesis)
 3. [SRC](#src)
 4. [DATA](#data)
-5. [FIGURES](#figure)
-6. [REFERENCES](#ref)
+5. [FIGURES](#figures)
+6. [REFERENCES](#references)
 
 ---
 
@@ -56,9 +56,10 @@ The first six rows of our data set are shown below...
 |5   |Samford University                                              |Alabama       |48400           |90500         |52                       |3           |
 |6   |Spring Hill College                                             |Alabama       |46600           |89100         |53                       |12          |
 
+
 ---
 
-## FIGURES[![](./images/pin.svg)](#figure)
+## FIGURES![](./images/pin.svg)
 
 ### Figures Table
 * Scatterplot with Trend Line
@@ -77,7 +78,8 @@ The first six rows of our data set are shown below...
 
 ---
 
-## REFERENCES[![](./images/pin.svg)](#ref)
+## REFERENCES
+
 [1] P. Jacobs, “Science And Math Majors Earn The Most Money After Graduation - Business
 Insider,” *Business Insider*, Jul. 09, 2014. [Online]. Available: https://www.businessinsider.com/stem-majors-earn-a-lot-more-money-after-graduation-2014-7. [Accessed: Sept. 14, 2022].
 
@@ -90,7 +92,7 @@ that won’t,” *World Economic Forum*. [Online]. Available: https://www.weforu
 
 [4] Mostipak, Jesse. “College Tuition, Diversity, and Pay.” *Kaggle* datasheet, 9 Mar. 2020. Available: https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?select=historical_tuition.csv. [Accessed: Sept. 14, 2022].
 
-### OTHER REFERENCES
+### OTHER LINKS
 
 - Access our MI1 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/793163ca-d95c-4733-9c89-7b8072cf7e87/M1-1%20Hypothesis.pdf) 👋
 - Access our MI2 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/9e9b7b2b-222c-49b7-9cdf-ab961fabc74c/M1-2%20Establish%20Data%20to%20Analysis%20Plan%20_1_.pdf) 🤝
