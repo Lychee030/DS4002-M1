@@ -82,6 +82,7 @@ The first six rows of our data set are shown below...
 
 ### R-Squared Value and Significance Tests
 |R-Squared Value|0.5882328|
+|---------|---------------|
 |P-Value|0.001983|
 
 ---
