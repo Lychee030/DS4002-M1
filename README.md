@@ -68,12 +68,17 @@ The first six rows of our data set are shown below...
 * R-Squared Value and Significance Tests
 
 ### Scatterplot with Trend Line
-![](./figures/salary_and_stem.png)
+![](./images/salary_and_stem.png)
 
 ### Boxplot
-![](./figures/boxplot_stem.png)
+![](./images/boxplot_stem.png)
 
 ### Average Difference between Salaries
+
+|stem_percent > 20|average|standard deviation|
+|-----------------|-------|------------------|
+|FALSE------------|51761--|5852--------------|
+|TRUE-------------|58400--|7074--------------|
 
 ### R-Squared Value and Significance Tests
 
