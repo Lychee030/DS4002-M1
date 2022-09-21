@@ -1,7 +1,7 @@
 # DS 4001 M1
 ---
 
-## Table of contents[![](./pin.svg)](#table-of-contents)
+## Table of contents[![](./images/pin.svg)](#table-of-contents)
 1. [INTRODUCTION](#introduction)
 2. [HYPOTHESIS](#hypothesis)
 3. [SRC](#src)
@@ -11,7 +11,7 @@
 
 ---
 
-## INTRODUCTION[![](./pin.svg)](#introduction)
+## INTRODUCTION[![](./images/pin.svg)](#introduction)
 The question we explored pertains to how much of an impact graduating with a STEM (science,
 technology, engineering, and math) degree has on early-career salaries. On average, STEM
 majors earn $65,000, while non-STEM majors earn about $15,500 less. STEM majors were also
@@ -27,21 +27,23 @@ make more money than non-STEM students.
 
 ---
 
-## HYPOTHESIS[![](./pin.svg)](#hypothesis)
+## HYPOTHESIS[![](./images/pin.svg)](#hypothesis)
 ***The United States early salary potential for graduates of public and private colleges and
 universities in Virginia is at least $5000 higher for colleges and universities that have a
 percentage of STEM students above or at 20%.***
 
 ---
 
-## SRC[![](./pin.svg)](#src)
+## SRC[![](./images/pin.svg)](#src)
 ![made-with-R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)<br>
 This section need to be updated later
 
 
 ---
-## DATA[![](./pin.svg)](#data)
-For full data, please click [here](./salary_potential.csv)
+## DATA[![](./images/pin.svg)](#data)
+For full data, please click [here](./data/salary_potential.csv)
+
+For the data dictionary, please click [here](./data/Data_Dictionary)
 
 The first six rows of our data set are shown below...
 
@@ -56,11 +58,11 @@ The first six rows of our data set are shown below...
 
 ---
 
-## FIGURES[![](./pin.svg)](#figure)
+## FIGURES[![](./images/pin.svg)](#figure)
 
 ---
 
-## REFERENCES[![](./pin.svg)](#ref)
+## REFERENCES[![](./images/pin.svg)](#ref)
 [1] P. Jacobs, “Science And Math Majors Earn The Most Money After Graduation - Business
 Insider,” *Business Insider*, Jul. 09, 2014. [Online]. Available: https://www.businessinsider.com/stem-majors-earn-a-lot-more-money-after-graduation-2014-7. [Accessed: Sept. 14, 2022].
 
