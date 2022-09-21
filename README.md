@@ -61,29 +61,57 @@ The first six rows of our data set are shown below...
 
 ## FIGURES![](./images/pin.svg)
 
-### Figures Table
+### **Figures Table**
 * Scatterplot with Trend Line
 * Boxplot
 * Average Difference between Salaries
 * R-Squared Value and Significance Tests
 
-### Scatterplot with Trend Line
+### **Scatterplot with Trend Line**
 ![](./figures/salary_and_stem.png)
 
-### Boxplot
+The graph shows a positive, linear, and
+moderately strong correlation between the two variables shown by the trend line. The confidence level is
+higher where the population is between 0% and 20%, since there are more data points compared to the low
+number of observations from the 20% to 40% population.
+
+### **Boxplot**
 ![](./figures/boxplot_stem.png)
 
-### Average Difference between Salaries
+This plot measures the same two variables of early career pay and STEM populations at each school in
+VA. The boxplot below compares the two groups of STEM populations greater than or less than 20%. Key
+points are that the median salary for the less than 20% group is about $50000, and the greater than 20%
+group has a median salary of about $58000. This is evidence that helps support our hypothesis. Looking at
+the two groups, we can also see that the spread for the low STEM population group is higher. There are no
+outliers shown by the graphs.
+
+### **Average Difference between Salaries**
 
 |stem_percent > 20|average|standard deviation|
 |-----------------|-------|------------------|
 |FALSE|51761|5852|
 |TRUE|58400|7074|
 
-### R-Squared Value and Significance Tests
+Descriptive statistics for Average and SD of Early Career Pay. Next, we computed the average pay and
+standard deviation for pay for each group. Although the averages support our hypothesis, the standard
+deviations are somewhat high.
+
+### **R-Squared Value and Significance Tests**
 |R-Squared Value|0.5882328|
 |---------|---------------|
 |P-Value|0.001983|
+
+Calculating R-Squared Value of the correlation and significance. Finding the correlation coefficient comes
+out to 59%. 59% of the variation in the early career pay variable is explained by the STEM population at
+each school.
+Testing Significance 1. Null hypothesis: variable 1 and variable have a correlation equal to 0. 2. Alternative
+hypothesis: variable 1 and variable 2 have a correlation not equal to 0.
+Running a significance test on the two variables, we found that the p-value was .001983. At a 95% confidence
+level, we can reject the null hypothesis that the correlation is equal to 0 as the p-value is statistically
+significant. The confidence interval is above 0, which supports the decision to reject the null hypothesis as
+well, although the range is quite large, likely due to the limited number of observations in the dataset.
+In conclusion, there is a significant relationship between early career pay and STEM populations in Virginia
+colleges and universities.
 
 ---
 
