@@ -77,3 +77,8 @@ aduation.html. [Accessed: Sept. 14, 2022].
 that won’t,” *World Economic Forum*. [Online]. Available: https://www.weforum.org/agenda/2021/10/stem-degrees-most-valuable/. [Accessed: Sept. 14, 2022].
 
 [4] Mostipak, Jesse. “College Tuition, Diversity, and Pay.” *Kaggle* datasheet, 9 Mar. 2020. Available: https://www.kaggle.com/datasets/jessemostipak/college-tuition-diversity-and-pay?select=historical_tuition.csv. [Accessed: Sept. 14, 2022].
+
+### OTHER REFERENCES
+
+- Access our MI1 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/793163ca-d95c-4733-9c89-7b8072cf7e87/M1-1%20Hypothesis.pdf) 👋
+- Access our MI2 assignment from [here](https://collab.its.virginia.edu/access/content/attachment/856376d0-e4da-47eb-9375-a797b1752c6f/Assignments/9e9b7b2b-222c-49b7-9cdf-ab961fabc74c/M1-2%20Establish%20Data%20to%20Analysis%20Plan%20_1_.pdf) 🤝
