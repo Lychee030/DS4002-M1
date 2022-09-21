@@ -36,7 +36,7 @@ percentage of STEM students above or at 20%.***
 
 ## SRC[![](./images/pin.svg)](#src)
 ![made-with-R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)<br>
-This section need to be updated later
+
 ### Installing/Building Code
 
 First, one must make sure that R and RStudio are installed on their system. Then, you can download the script from our src folder, along with the dataset in the data folder. Make sure that the files are saved into the same directory and change the working directory to where the files are located. Finally, you can click run to view the outputs of the code locally.
