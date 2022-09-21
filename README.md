@@ -71,6 +71,7 @@ The first six rows of our data set are shown below...
 ![](./images/salary_and_stem.png)
 
 ### Boxplot
+![](./images/boxplot_stem.png)
 
 ### Average Difference between Salaries
 
