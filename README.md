@@ -60,6 +60,9 @@ The first six rows of our data set are shown below...
 
 ## FIGURES[![](./images/pin.svg)](#figure)
 
+
+### Table of contents[![](./images/pin.svg)](#table-of-contents)
+
 ---
 
 ## REFERENCES[![](./images/pin.svg)](#ref)
