@@ -77,8 +77,8 @@ The first six rows of our data set are shown below...
 
 |stem_percent > 20|average|standard deviation|
 |-----------------|-------|------------------|
-|FALSE------------|51761--|5852--------------|
-|TRUE-------------|58400--|7074--------------|
+|FALSE|51761|5852|
+|TRUE|58400|7074|
 
 ### R-Squared Value and Significance Tests
 
