@@ -97,6 +97,8 @@ standard deviation for pay for each group. Although the averages support our hyp
 deviations are somewhat high.
 
 ### **R-Squared Value and Significance Tests**
+
+|Value||
 |R-Squared Value|0.5882328|
 |P-Value|0.001983|
 
