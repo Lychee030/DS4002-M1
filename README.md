@@ -37,6 +37,9 @@ percentage of STEM students above or at 20%.***
 ## SRC[![](./images/pin.svg)](#src)
 ![made-with-R](https://img.shields.io/badge/Made%20with-R-1f425f.svg)<br>
 This section need to be updated later
+### Installing/Building Code
+
+### Usage of Code
 
 
 ---
