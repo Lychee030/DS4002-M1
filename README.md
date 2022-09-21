@@ -98,7 +98,6 @@ deviations are somewhat high.
 
 ### **R-Squared Value and Significance Tests**
 |R-Squared Value|0.5882328|
-|---------|---------------|
 |P-Value|0.001983|
 
 Calculating R-Squared Value of the correlation and significance. Finding the correlation coefficient comes
