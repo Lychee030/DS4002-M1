@@ -60,14 +60,20 @@ The first six rows of our data set are shown below...
 
 ## FIGURES[![](./images/pin.svg)](#figure)
 
+### Figures Table
+* Scatterplot with Trend Line
+* Boxplot
+* Average Difference between Salaries
+* R-Squared Value and Significance Tests
 
-### Table of contents[![](./images/pin.svg)](#table-of-contents)
-1. [Scatterplot with Trend Line]
-2. [Boxplot]
-3. [Average Difference between Salaries]
-4. [R-Squared Value and Significance Tests]
+### Scatterplot with Trend Line
+![](./images/salary_and_stem.png)
 
-### Scatterplot with Trend Line![](./images/salary_and_stem.png)(#figure)
+### Boxplot
+
+### Average Difference between Salaries
+
+### R-Squared Value and Significance Tests
 
 ---
 
