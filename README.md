@@ -62,6 +62,12 @@ The first six rows of our data set are shown below...
 
 
 ### Table of contents[![](./images/pin.svg)](#table-of-contents)
+1. Scatterplot with Trend Line
+2. Boxplot
+3. Average Difference between Salaries
+4. R-Squared Value and Significance Tests
+
+### Scatterplot with Trend Line[![](./images/salary_and_stem.png)]
 
 ---
 
