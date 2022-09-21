@@ -41,7 +41,7 @@ This section need to be updated later
 
 ---
 ## DATA[![](./pin.svg)](#data)
-For full data, please click [here](./salary_porential.csv)
+For full data, please click [here](./salary_potential.csv)
 
 The first six rows of our data set are shown below...
 
